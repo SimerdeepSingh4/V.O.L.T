@@ -6,7 +6,12 @@ node_modules/
 *.env
 .env.*
 credentials/*.json
-!credentials/example.json
+!credentials/example.service-account-key.json
+
+# Specific credential files
+backend/credentials/all-service-key.json
+backend/credentials/service-account-key.json
+backend/credentials/translate-service-account-key.json
 
 # logs
 logs/
