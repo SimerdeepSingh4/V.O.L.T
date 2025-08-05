@@ -134,17 +134,16 @@ volt/
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
+## 🙋‍♂️ Author
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+**Simerdeep Singh Gandhi**
 
-## 👥 Authors
+- Portfolio: [https://simerdeep-portfolio.vercel.app/](https://simerdeep-portfolio.vercel.app/)
+- GitHub: [@SimerdeepSingh4](https://github.com/SimerdeepSingh4)
+- LinkedIn: [Simerdeep Singh Gandhi](https://www.linkedin.com/in/simerdeep-singh-gandhi-5569a7279/)
 
-- **Simerdeep Singh** - *Initial work* - [SimerdeepSingh4](https://github.com/SimerdeepSingh4)
+---
 
-## 🙏 Acknowledgments
+## ✨ Show Your Support
 
-- Google Cloud Platform for translation services
-- Firebase for authentication
-- All contributors who have helped this project grow
-
+Give a ⭐️ if this project helped you!
